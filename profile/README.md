@@ -10,7 +10,7 @@ BlendはRCJ Rescue Mazeに出場する岐阜高専の寮生チームです。初
 
 ## 機体3Dデータ
 
-![https://a360.co/3HSaApt](https://a360.co/3HSaApt)にあります。もし閲覧権限で撥ねられたらお気軽にメールください。
+[https://a360.co/3HSaApt](https://a360.co/3HSaApt)にあります。もし閲覧権限で撥ねられたらお気軽にメールください。
 
 ## 注意点
 
