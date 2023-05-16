@@ -8,9 +8,10 @@ BlendはRCJ Rescue Mazeに出場する岐阜高専の寮生チームです。初
 
 ブログもぜひ見ていってね！👀:[https://blend-rcjj.github.io](https://blend-rcjj.github.io)
 
-## 機体3Dデータ
+## 経歴
 
-[https://a360.co/3HSaApt](https://a360.co/3HSaApt)にあります。もし閲覧権限で撥ねられたらお気軽にメールください。
+2022-04 結成
+2023-03 全国大会優勝
 
 ## 注意点
 
